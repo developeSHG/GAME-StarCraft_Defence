@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="01.Obj">
+      <UniqueIdentifier>{9ddb03e8-8963-4e55-a399-a8a460ebcd74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainGame">
+      <UniqueIdentifier>{e7922561-58e8-426d-a83a-0b586b2a0a3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default">
+      <UniqueIdentifier>{45bea2af-6558-494e-a5cf-5d8df79c8fb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="03.Scene">
+      <UniqueIdentifier>{0a927cab-388b-404f-a188-8237a7069899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit">
+      <UniqueIdentifier>{b004c6bd-801f-4fa4-ab5b-31ff7b8ff4c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\01.Mouse">
+      <UniqueIdentifier>{b503fee9-768d-47b1-b038-6e113ea50385}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\99.Etc">
+      <UniqueIdentifier>{94a029d4-abb2-4cf5-9b0e-0ddfb9b9ada2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\02.Sprite">
+      <UniqueIdentifier>{8128a03b-da00-4d76-a32b-8a24e54dfedd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Texture">
+      <UniqueIdentifier>{0ff39798-7ee0-439e-a658-9867f7daf589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Texture\00.SingleTexture">
+      <UniqueIdentifier>{99418c36-5dc6-4b21-8289-365db61b0992}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.Texture\01.MultiTexture">
+      <UniqueIdentifier>{b30ba4aa-49be-4af6-88a5-05ba04c95be1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager">
+      <UniqueIdentifier>{574a7881-c332-49de-99a7-a813772bd205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\00.DeviceMgr">
+      <UniqueIdentifier>{fab4c210-a03e-480b-b602-d8a8fe6a8f1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\01.TextureMgr">
+      <UniqueIdentifier>{6157f16b-0f71-4ffc-91d8-ea3d8f4c5a43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\02.ScrollMgr">
+      <UniqueIdentifier>{c5ed801f-15a4-4223-98b0-747d587bf351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\03.SceneMgr">
+      <UniqueIdentifier>{5cf12a35-7729-4c39-a404-8a8e34d59c9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\04.KeyMgr">
+      <UniqueIdentifier>{dfef5b5d-fb31-4b25-af36-d0e501f086f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\05.ObjMgr">
+      <UniqueIdentifier>{79a2a7f5-1d59-480b-8feb-cce051b3dd22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\06.CollisionMgr">
+      <UniqueIdentifier>{a38a6d94-8483-44e2-80fc-e6dfd5e97405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Scene\01.Logo">
+      <UniqueIdentifier>{e6031f3b-21c1-4617-b9cf-671d8cfa3656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Scene\00.Intro">
+      <UniqueIdentifier>{19915499-ff76-4eb2-aa34-6f286f6b6d50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Default\fmod">
+      <UniqueIdentifier>{1b62e47f-71b4-4891-8562-4a6d98732c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Scene\02.Menu">
+      <UniqueIdentifier>{3b1cdb7e-ba31-40f7-af31-1164f70f2e14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Scene\03.Stage">
+      <UniqueIdentifier>{018a352c-ded2-4dab-af04-b2ea1f8b3a77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\07.TileMgr">
+      <UniqueIdentifier>{d0272ec0-75bd-4eae-b171-a82c45fde2f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\08.LineMgr">
+      <UniqueIdentifier>{c49efd97-3ef3-4cc8-af86-0cae0b77de67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Manager\09.SoundMgr">
+      <UniqueIdentifier>{898386b3-d281-4c2e-aa56-5a6f50c3ccca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\03.AniSprite">
+      <UniqueIdentifier>{fee903dc-676b-49f2-9091-b73f17d5aecb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\04.Button">
+      <UniqueIdentifier>{db9be13e-1fe0-42a3-b582-462344e13b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\00.Player">
+      <UniqueIdentifier>{1d26b2a8-e3da-4765-9d55-9aaa220ec5b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\00.Player\00.Marine">
+      <UniqueIdentifier>{d5a15f31-035b-4fe2-a802-d8c018ce391c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy">
+      <UniqueIdentifier>{47beb17c-439e-4a8e-b134-b3b4d6f15291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\05.CollRect">
+      <UniqueIdentifier>{736f4d1a-618a-4bc7-98d4-f6c82e1f91e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\00.Overload">
+      <UniqueIdentifier>{f89c54b3-bb35-4e5f-95df-be72e35bb82e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\01.Arbiter">
+      <UniqueIdentifier>{009ab6eb-0077-43ec-b690-e559e654b01e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\02.Wraith">
+      <UniqueIdentifier>{7e32417a-7fdd-4cab-a1ba-9747a12ef29e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\03.Bomber">
+      <UniqueIdentifier>{608aa829-5c93-4487-bf1b-216b57773dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\04.Carrier">
+      <UniqueIdentifier>{5fb1a67d-e515-4d75-8a61-1ed61454f462}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\01.Enemy\05.BattleCr">
+      <UniqueIdentifier>{a7108a4a-364a-46e8-8db1-d71d19f6c9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\02.Structure">
+      <UniqueIdentifier>{fc356617-dc02-4917-b6cc-a35d0a84040d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Obj\00.Unit\02.Structure\00.Weaponpl">
+      <UniqueIdentifier>{537d42cb-438d-4dbf-8e78-59d84de1a46d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h">
+      <Filter>00.MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollMgr.h">
+      <Filter>03.Manager\02.ScrollMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugLog.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>01.Obj\01.Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>03.Manager\03.SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>03.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Logo.h">
+      <Filter>03.Scene\01.Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>03.Scene\03.Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceMgr.h">
+      <Filter>03.Manager\00.DeviceMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>03.Manager\04.KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>03.Manager\06.CollisionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>03.Manager\05.ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01.Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleTexture.h">
+      <Filter>02.Texture\00.SingleTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>02.Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>01.Obj\02.Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMgr.h">
+      <Filter>03.Manager\01.TextureMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiTexture.h">
+      <Filter>02.Texture\01.MultiTexture</Filter>
+    </ClInclude>
+    <ClInclude Include="Intro.h">
+      <Filter>03.Scene\00.Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod.hpp">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_codec.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_dsp.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_errors.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_memoryinfo.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="fmod_output.h">
+      <Filter>99.Default\fmod</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>03.Manager\09.SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMenu.h">
+      <Filter>03.Scene\02.Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>01.Obj\04.Button</Filter>
+    </ClInclude>
+    <ClInclude Include="AniSprite.h">
+      <Filter>01.Obj\03.AniSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Marine.h">
+      <Filter>01.Obj\00.Unit\00.Player\00.Marine</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>01.Obj\00.Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="CollRect.h">
+      <Filter>01.Obj\05.CollRect</Filter>
+    </ClInclude>
+    <ClInclude Include="Overload.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\00.Overload</Filter>
+    </ClInclude>
+    <ClInclude Include="Weaponpl.h">
+      <Filter>01.Obj\00.Unit\02.Structure\00.Weaponpl</Filter>
+    </ClInclude>
+    <ClInclude Include="Wraith.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\02.Wraith</Filter>
+    </ClInclude>
+    <ClInclude Include="Carrier.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\04.Carrier</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomber.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\03.Bomber</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleCr.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\05.BattleCr</Filter>
+    </ClInclude>
+    <ClInclude Include="Arbiter.h">
+      <Filter>01.Obj\00.Unit\01.Enemy\01.Arbiter</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>00.MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollMgr.cpp">
+      <Filter>03.Manager\02.ScrollMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugLog.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>01.Obj\01.Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>03.Manager\03.SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>03.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Logo.cpp">
+      <Filter>03.Scene\01.Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>03.Scene\03.Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceMgr.cpp">
+      <Filter>03.Manager\00.DeviceMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>03.Manager\04.KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>03.Manager\06.CollisionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>03.Manager\05.ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01.Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleTexture.cpp">
+      <Filter>02.Texture\00.SingleTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>02.Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>01.Obj\02.Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMgr.cpp">
+      <Filter>03.Manager\01.TextureMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiTexture.cpp">
+      <Filter>02.Texture\01.MultiTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>03.Scene\00.Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>03.Manager\09.SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MyMenu.cpp">
+      <Filter>03.Scene\02.Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>01.Obj\04.Button</Filter>
+    </ClCompile>
+    <ClCompile Include="AniSprite.cpp">
+      <Filter>01.Obj\03.AniSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Marine.cpp">
+      <Filter>01.Obj\00.Unit\00.Player\00.Marine</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>01.Obj\00.Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="CollRect.cpp">
+      <Filter>01.Obj\05.CollRect</Filter>
+    </ClCompile>
+    <ClCompile Include="Overload.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\00.Overload</Filter>
+    </ClCompile>
+    <ClCompile Include="Weaponpl.cpp">
+      <Filter>01.Obj\00.Unit\02.Structure\00.Weaponpl</Filter>
+    </ClCompile>
+    <ClCompile Include="Wraith.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\02.Wraith</Filter>
+    </ClCompile>
+    <ClCompile Include="Carrier.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\04.Carrier</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomber.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\03.Bomber</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleCr.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\05.BattleCr</Filter>
+    </ClCompile>
+    <ClCompile Include="Arbiter.cpp">
+      <Filter>01.Obj\00.Unit\01.Enemy\01.Arbiter</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>99.Default\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>99.Default\리소스 파일</Filter>
+    </Image>
+    <Image Include="Client.ico">
+      <Filter>99.Default\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>99.Default</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fmodex.dll">
+      <Filter>99.Default\fmod</Filter>
+    </None>
+    <None Include="fmodexL.dll">
+      <Filter>99.Default\fmod</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="fmodex_vc.lib">
+      <Filter>99.Default\fmod</Filter>
+    </Library>
+  </ItemGroup>
+</Project>

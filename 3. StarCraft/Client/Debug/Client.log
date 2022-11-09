@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  Wraith.cpp
+  Weaponpl.cpp
+  Unit.cpp
+  TextureMgr.cpp
+  Stage.cpp
+  ScrollMgr.cpp
+  SceneMgr.cpp
+  Scene.cpp
+  ObjMgr.cpp
+  Obj.cpp
+  Texture.cpp
+  Sprite.cpp
+  SoundMgr.cpp
+  SingleTexture.cpp
+  Overload.cpp
+  MyMenu.cpp
+  MyButton.cpp
+  MultiTexture.cpp
+  Mouse.cpp
+  Marine.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MainGame.cpp
+  Logo.cpp
+  KeyMgr.cpp
+  Intro.cpp
+  DeviceMgr.cpp
+  DebugLog.cpp
+  CollRect.cpp
+c:\users\user\desktop\코딩\프로젝트\starcraft\client\collrect.cpp(28): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\프로젝트\starcraft\client\collrect.cpp(29): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionMgr.cpp
+  Client.cpp
+  Carrier.cpp
+  Bomber.cpp
+  BattleCr.cpp
+  Arbiter.cpp
+  AniSprite.cpp
+  코드를 생성하고 있습니다...
+  Client.vcxproj -> C:\Users\User\Desktop\코딩\프로젝트\StarCraft\Debug\Client.exe
+  Client.vcxproj -> C:\Users\User\Desktop\코딩\프로젝트\StarCraft\Debug\Client.pdb (Full PDB)
