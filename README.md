@@ -1,7 +1,7 @@
 # GAME-StarCraft_Defence
 [DirectX 2D - Team Project] 스타크래프트 디펜스
 
-동영상(Client)    : https://www.youtube.com/watch?v=g8MoolX7qbk
+ 동영상(Client)    : https://www.youtube.com/watch?v=g8MoolX7qbk
 <br/>장르              : 디펜스
 <br/>날짜              : 2019.07.08 ~ 2019.07.10
 <br/>인원              : 2명 중 팀장 (담당파트 : Framework)
