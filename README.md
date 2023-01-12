@@ -2,17 +2,11 @@
 [DirectX 2D - Team Project] 스타크래프트 디펜스
 
 동영상(Client)    : https://www.youtube.com/watch?v=g8MoolX7qbk
-
-장르              : 디펜스
-
-날짜              : 2019.07.08 ~ 2019.07.10
-
-인원              : 2명 중 팀장 (담당파트 : Framework)
-
-개발 환경         : Visual Studio 2015 (x64)
-
-개발 언어 및 도구  : C++, DirectX9
-
+<br/>장르              : 디펜스
+<br/>날짜              : 2019.07.08 ~ 2019.07.10
+<br/>인원              : 2명 중 팀장 (담당파트 : Framework)
+<br/>개발 환경         : Visual Studio 2015 (x64)
+<br/>개발 언어 및 도구  : C++, DirectX9
 
 ======================================================================
 
