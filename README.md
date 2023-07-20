@@ -1,4 +1,6 @@
 # GAME-StarCraft_Defence
+
+<img width="90%" src="https://user-images.githubusercontent.com/79896868/254758981-eb955961-928c-43ec-8b4a-f539581894d0.png"/>
 <h3>[DirectX 2D - Team Project] 스타크래프트 디펜스</h3>
 
 <b>동영상(Client)</b>    : https://www.youtube.com/watch?v=g8MoolX7qbk
